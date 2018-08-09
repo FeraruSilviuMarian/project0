@@ -66,6 +66,24 @@ iframe {
         background-color: lightblue;
     }
 
+    .titleHeader::before {
+        content: "Life is strange is aswesome!";
+    }
+
+    h1 {
+        text-align: left;
+    }
+}
+
+@media only screen and (min-width: 601px) {
+    body {
+        background-color: #c9d6ea;
+    }
+
+    .titleHeader::before {
+        content: "Life is strange is aswesome!";
+    }
+
     h1 {
         text-align: left;
     }
