@@ -66,7 +66,7 @@ iframe {
         background-color: lightblue;
     }
 
-    .titleHeader::before {
+    .title0::before {
         content: "Life is strange";
     }
 
@@ -80,7 +80,7 @@ iframe {
         background-color: #c9d6ea;
     }
 
-    .titleHeader::before {
+    .title0::before {
         content: "Life is strange is aswesome!";
     }
 
