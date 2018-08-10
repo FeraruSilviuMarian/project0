@@ -62,6 +62,7 @@ iframe {
   h1 {
     text-align: left; } }
 .row > div {
+  margin: 0px;
   padding: 0px; }
 
 /*# sourceMappingURL=style0.css.map */
