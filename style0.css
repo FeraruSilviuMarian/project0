@@ -56,7 +56,7 @@ iframe {
   body {
     background-color: #c9d6ea; }
 
-  .title0::before {
+  h1::before {
     content: "Life is strange is aswesome!"; }
 
   h1 {
