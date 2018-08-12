@@ -44,7 +44,7 @@ iframe {
   body {
     background-color: #becbdd; }
 
-  h1::before {
+  #titleHome {
     content: "Life is strange"; }
 
   h1 {
@@ -53,7 +53,7 @@ iframe {
   body {
     background-color: #c9d6ea; }
 
-  h1::before {
+  #titleHome {
     content: "Life is strange is aswesome!"; }
 
   h1 {
