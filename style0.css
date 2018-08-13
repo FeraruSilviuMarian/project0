@@ -49,7 +49,7 @@ iframe {
     background-color: #becbdd; }
 
   #footerIndex::before {
-    content: "Life is strange is available for mobile '<a href=https://play.google.com/store/apps/details?id=com.squareenix.lis'>Play Store</a> and <a href='https://itunes.apple.com/us/app/life-is-strange/id1180101534?mt=8'>App Store</a>"; }
+    content: "Life is strange is available for mobile <a href=https://play.google.com/store/apps/details?id=com.squareenix.lis>Play Store</a> and <a href=https://itunes.apple.com/us/app/life-is-strange/id1180101534?mt=8>App Store</a>"; }
 
   h1 {
     text-align: left; } }
