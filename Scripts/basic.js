@@ -1,8 +1,8 @@
 function myFunction(x) {
     if (x.matches) { // If media query matches
-        $("#footerIndex").innerHTML = "small";
+        $("#footerIndex").html("small");
     } else {
-        $("#footerIndex").innerHTML = "big";
+        $("#footerIndex").html("big");
     }
 }
 
