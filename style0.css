@@ -48,17 +48,11 @@ iframe {
   body {
     background-color: #becbdd; }
 
-  #footerIndex::before {
-    content: "Life is strange is available for mobile <a href=https://play.google.com/store/apps/details?id=com.squareenix.lis>Play Store</a> and <a href=https://itunes.apple.com/us/app/life-is-strange/id1180101534?mt=8>App Store</a>"; }
-
   h1 {
     text-align: left; } }
 @media only screen and (min-width: 601px) {
   body {
     background-color: #c9d6ea; }
-
-  #footerIndex::before {
-    content: "Life is strange is available on PC at <a href='https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/'>Steam</a>"; }
 
   h1 {
     text-align: left; } }
