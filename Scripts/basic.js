@@ -1,8 +1,8 @@
 function myFunction(x) {
     if (x.matches) { // If media query matches
-        document.body.style.backgroundColor = "yellow";
+        $("#footerIndex").innerHTML = "small";
     } else {
-        document.body.style.backgroundColor = "pink";
+        $("#footerIndex").innerHTML = "big";
     }
 }
 
