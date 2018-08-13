@@ -1,7 +1,7 @@
 // footer change event based on the size of window
 function footerChange(x) {
     if (x.matches) { // If media query matches
-        $("#footerIndex").html('<a href="https://play.google.com/store/apps/details?id=com.squareenix.lis&hl=en">Get it on android</a><a href="https://itunes.apple.com/us/app/life-is-strange/id1180101534?mt=8">Get it on iphone</a>');
+        $("#footerIndex").html('<a href="https://play.google.com/store/apps/details?id=com.squareenix.lis&hl=en">Get it on android</a><br><a href="https://itunes.apple.com/us/app/life-is-strange/id1180101534?mt=8">Get it on iphone</a>');
     } else {
         $("#footerIndex").html('<a href="https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/">Get it on steam</a>');
     }
