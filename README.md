@@ -2,6 +2,8 @@
 
 Web Programming with Python and JavaScript
 
+https://ferarusilviumarian.github.io/project0/
+
 *Description*
 This is a fan-page for Life is strange video game, just a random subject off the top
 of my head just to have something to do for the project.
