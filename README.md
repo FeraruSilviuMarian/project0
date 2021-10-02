@@ -15,5 +15,4 @@ The javascript file contains a tiny bit of code that changes a footer based on t
 "get it on adnroid"
 "get it on ios" when the window is small enough for a phone or tablet.
 
-Interesting how not using flask/jinja like in CS50, was difficult in the sense that I had to
-copy paste a lot of sutff, instead of using a template and extending it.
+Also shows how not using flask/jinja makes the code redundant.
